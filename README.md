@@ -1,1 +1,2 @@
-# niranjanwaikar.github.io
+# Niranjan Waikar
+### Full Stack Data Scientist
